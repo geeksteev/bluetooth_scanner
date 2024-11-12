@@ -6,3 +6,5 @@ This projects scans for bluetooth devices and presents the name and mac address 
 ### Parts
 - [ESP32 Dev Board](https://www.amazon.com/HiLetgo-ESP32-DevKitC-ESP32-WROOM-32U-ESP-WROOM-32U-Development/dp/B09KLS2YB3?ref_=ast_sto_dp)
 - [ILI9341 TFT SPI Display](https://www.amazon.com/HiLetgo-240X320-Resolution-Display-ILI9341/dp/B073R7BH1B?ref_=ast_sto_dp)
+
+You can find the parts list [here](https://www.amazon.com/hz/wishlist/ls/3M0IOHR6XIZHA?ref_=wl_share)
